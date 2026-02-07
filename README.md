@@ -8,5 +8,5 @@
 
 ## Проекты
 
+**Проект 5:** [Avito — URL Shortener](./avito) — сервис сокращения ссылок (FastAPI, SQLite), кастомные коды, валидация URL.
 
-**Проект 3:** [ООО мстрой — TreeStore API](./ООО%20мстрой) — FastAPI, дерево объектов (id, parent) с методами getAll, getItem, getChildren, getAllParents и REST API.
