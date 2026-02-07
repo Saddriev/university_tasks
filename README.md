@@ -9,4 +9,4 @@
 ## Проекты
 
 
-**Проект 3:** [ООО мстрой — TreeStore API](./ООО%20мстрой) — FastAPI, дерево объектов (id, parent) с методами getAll, getItem, getChildren, getAllParents и REST API.
+**SQL 7:** [Alfabank](./alfa) — SQL (SQLite): средний возраст клиентов, купивших Smartwatch; покупатели, купившие Laptop и Monitor в марте 2024.

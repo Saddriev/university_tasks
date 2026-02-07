@@ -1,0 +1,15 @@
+# Исключить из репозитория
+ООО мстрой/
+"ООО мстрой"/
+fitnesskit-1c/
+ivelum/
+aviasales/
+
+# System
+.DS_Store
+
+# Python
+__pycache__/
+.venv/
+venv/
+*.db
