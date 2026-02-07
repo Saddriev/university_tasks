@@ -1,9 +1,12 @@
 # University tasks
 
-
 Репозиторий учебных заданий по backend-разработке.
 
 *Студент:* Садриев Раниль (П-211)
 
+---
 
-**Проект 2:** [FitnessKit 1C Integration](./fitnesskit-1c) — Django 3+, асинхронный API, интеграция с 1С (список сотрудников)
+## Проекты
+
+**Проект 3:** [Ivelum — Hacker News Proxy](./ivelum) — HTTP-прокси для Hacker News на FastAPI с модификацией текста (™ после слов из 6 букв).
+
