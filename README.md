@@ -1,1 +1,12 @@
-# university_tasks
+# University tasks
+
+Репозиторий учебных заданий по backend-разработке.
+
+*Студент:* Садриев Раниль (П-211)
+
+---
+
+## Проекты
+
+
+**SQL 7:** [Alfabank](./alfa) — SQL (SQLite): средний возраст клиентов, купивших Smartwatch; покупатели, купившие Laptop и Monitor в марте 2024.
